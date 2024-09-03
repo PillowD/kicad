@@ -1,0 +1,10 @@
+### Footprint positions - created on 2024-09-03T13:17:02-0700 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                                PosX       PosY       Rot  Side
+D1        LED             LED_D3.0mm                                         129.5000   -91.0000    0.0000  top
+J1        Conn_01x01_Pin  PinHeader_1x01_P1.00mm_Vertical                    129.5000  -107.0000    0.0000  top
+J2        Conn_01x01_Pin  PinHeader_1x01_P1.00mm_Vertical                    146.0000  -107.0000    0.0000  top
+R1        R               R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal   138.3800   -91.0000    0.0000  top
+## End
