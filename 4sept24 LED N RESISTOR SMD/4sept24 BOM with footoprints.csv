@@ -1,0 +1,5 @@
+﻿Item Number,Ref Des,Quantity,MFG PN,Vendor PN,Description,Side,Part Type,Package,DNP DNS,Datasheet
+1,LED1,1,QBLP601-R,1516-1059-1-ND,LED RED CLEAR 0603 SMD,Top,SMT,L603,,https://www.qt-brightek.com/datasheet/QBLP601_series.pdf
+2,R1,1,RC0603FR-071KL,311-1.00KHRCT-ND,RES 1K OHM 1% 1/10W 0603,Top,SMT,R603,,https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+3,J1,0,PH1-01-UA,2057-PH1-01-UA-ND,CONN HEADER VERT 1POS 2.54MM,Top,TH,TH,DNP,https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf
+4,J1,0,PH1-01-UA,2057-PH1-01-UA-ND,CONN HEADER VERT 1POS 2.54MM,Top,TH,TH,DNP,https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf
