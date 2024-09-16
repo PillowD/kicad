@@ -1,0 +1,49 @@
+                    Net Count Report -- Mon Sep 16 11:05:07 2024
+                    -------------------------------------
+
+
+Net midpoints identified:     yes
+Phase test data generated:    no
+Net adjacency data generated: no
+Total time used:              under 1 sec
+DLL version:                  11.22.4.0
+
+
+ Board                  Min.    Max.
+ Layer   Layer  Layer   Net     Net     Neg. Scratch
+Number  Number  Type   Number  Number  Layer  Layer    Layer Description
+--------------------------------------------------------------------------------
+   1       5     CPU                                   conductive
+   2       6     CPL                                   conductive
+   8       8     PTH                                   drill master
+   5       3     SKU                                   soldermask/silkscreen
+   6       4     MSU                                   soldermask/silkscreen
+   7       7     MSL                                   soldermask/silkscreen
+   4       2     SPU                                   additional test points
+
+
+  Net      Number      Number
+Number    Of Nodes    Of Traces
+-------------------------------
+  200          1           0
+  201          1           0
+  202          3           0
+  203          3           0
+  204          1           0
+  205          1           0
+
+
+ Number     Number Of Nets With
+Of Nodes    This Number Of Nodes
+--------------------------------
+     3                2
+     1                4
+
+
+Single point nets:             4
+Nets with nodes:               6
+Nets without nodes:            0
+Shorts between plane nets:     0
+
+Net numbers for single point nets:
+ 200 201 204 205
