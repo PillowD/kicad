@@ -1,0 +1,11 @@
+ERC report (2024-10-05T12:39:07-0700, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol '865080340001' has been modified in library '2024-10-05_19-01-14'
+    ; warning
+    @(6050.00 mils, 5250.00 mils): Symbol C3 [865080340001]
+[lib_symbol_issues]: Symbol '865080340001' has been modified in library '2024-10-05_19-01-14'
+    ; warning
+    @(4500.00 mils, 4150.00 mils): Symbol C2 [865080340001]
+
+ ** ERC messages: 2  Errors 0  Warnings 2

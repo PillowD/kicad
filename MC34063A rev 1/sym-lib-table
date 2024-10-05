@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2024-10-05_19-01-14")(type "KiCad")(uri "C:/Users/sandy/Downloads/865080340001/KiCADv6/2024-10-05_19-01-14.kicad_sym")(options "")(descr ""))
+  (lib (name "ETQP5M101YGC")(type "KiCad")(uri "C:/Users/sandy/Downloads/ETQP5M101YGC/ETQP5M101YGC.kicad_sym")(options "")(descr ""))
+)
