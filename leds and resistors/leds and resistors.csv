@@ -1,0 +1,6 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+D1,1,LED Green,,,,LED_SMD:LED_0805_2012Metric,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1134/LTST-C171GKT.pdf
+D2,1,LED Yellow,,,,LED_SMD:LED_0805_2012Metric,https://optoelectronics.liteon.com/upload/download/DS-22-99-0188/LTST-C170KSKT.pdf
+D3,1,LED Red,,,,LED_SMD:LED_0805_2012Metric,https://optoelectronics.liteon.com/upload/download/DS22-2000-109/LTST-C171KRKT.pdf
+"R1,R2,R3",3,330,,,,Resistor_SMD:R_0805_2012Metric,https://industrial.panasonic.com/ww/products/pt/general-purpose-chip-resistors/models/ERJ6GEYJ331V
+"TP1,TP2,TP3,TP4,TP5,TP6",6,~,,,,TestPoint:TestPoint_Pad_D2.0mm,~
